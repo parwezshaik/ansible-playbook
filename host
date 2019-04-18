@@ -1,1 +1,1 @@
-dev ansible_ssh_host=54.189.139.20  ansible_ssh_user=root
+dev ansible_ssh_host=3.19.56.17  ansible_ssh_user=root
